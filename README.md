@@ -11,6 +11,7 @@ Prerequisites Hardware:
 * Lotus Elise/Exige with a T4e ECU
 * Arduino UNO R3 + Sparkfun or Seedstudio CAN Shield
 * can2usbAVR HEX programmed into Arudino [https://github.com/t4eeditor/can2usbAVR/tree/master/hex]
+* [https://github.com/t4eeditor/Binary-Releases/wiki]
  
 Prerequisites Software:
 =======================
